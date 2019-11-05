@@ -1,0 +1,9 @@
+!includeurl GCPPUML/Big_Data/GCP_BigQuery/GCP_BigQuery_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Genomics/GCP_Genomics_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc_LARGE.puml
+!includeurl GCPPUML/Big_Data/GCP_Data_Studio/GCP_Data_Studio_LARGE.puml

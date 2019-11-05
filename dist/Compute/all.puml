@@ -1,0 +1,6 @@
+!includeurl GCPPUML/Compute/GCP_Compute_Engine/GCP_Compute_Engine.puml
+!includeurl GCPPUML/Compute/GCP_App_Engine/GCP_App_Engine.puml
+!includeurl GCPPUML/Compute/GCP_GPU/GCP_GPU.puml
+!includeurl GCPPUML/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS.puml
+!includeurl GCPPUML/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions.puml
+!includeurl GCPPUML/Compute/GCP_Container_Engine/GCP_Container_Engine.puml

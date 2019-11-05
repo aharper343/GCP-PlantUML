@@ -1,0 +1,12 @@
+!includeurl GCPPUML/Management_Tools/GCP_Debugger/GCP_Debugger_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Logging/GCP_Logging_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Monitoring/GCP_Monitoring_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Trace/GCP_Trace_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Stackdriver/GCP_Stackdriver_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App_LARGE.puml
+!includeurl GCPPUML/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE.puml

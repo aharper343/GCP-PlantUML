@@ -1,0 +1,6 @@
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics.puml
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense.puml
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints.puml
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization.puml
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform.puml
+!includeurl GCPPUML/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal.puml

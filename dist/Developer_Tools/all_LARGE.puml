@@ -1,0 +1,6 @@
+!includeurl GCPPUML/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry_LARGE.puml
+!includeurl GCPPUML/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories_LARGE.puml
+!includeurl GCPPUML/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK_LARGE.puml
+!includeurl GCPPUML/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder_LARGE.puml
+!includeurl GCPPUML/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE.puml
+!includeurl GCPPUML/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab_LARGE.puml

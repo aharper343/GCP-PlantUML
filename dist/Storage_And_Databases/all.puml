@@ -1,0 +1,8 @@
+!includeurl GCPPUML/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage.puml
+!includeurl GCPPUML/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL.puml

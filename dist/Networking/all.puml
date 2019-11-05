@@ -1,0 +1,15 @@
+!includeurl GCPPUML/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Router/GCP_Cloud_Router.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes.puml
+!includeurl GCPPUML/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud.puml
+!includeurl GCPPUML/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses.puml
+!includeurl GCPPUML/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN.puml
+!includeurl GCPPUML/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Network/GCP_Cloud_Network.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor.puml
+!includeurl GCPPUML/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier.puml
+!includeurl GCPPUML/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing.puml

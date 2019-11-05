@@ -1,0 +1,12 @@
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU.puml
+!includeurl GCPPUML/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API.puml
