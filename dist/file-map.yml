@@ -1,852 +1,892 @@
 ---
 
-APIPlatformAndEcosystems.APIAnalytics.APIAnalytics:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_APIAnalytics.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIAnalytics/APIAnalytics.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIAnalytics/APIAnalytics-sprite.puml
-
-APIPlatformAndEcosystems.APIAnalytics.APIAnalytics_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_APIAnalytics_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIAnalytics/APIAnalytics_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIAnalytics/APIAnalytics_LARGE-sprite.puml
-
-APIPlatformAndEcosystems.APIMonetization.APIMonetization:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_APIMonetization.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIMonetization/APIMonetization.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIMonetization/APIMonetization-sprite.puml
-
-APIPlatformAndEcosystems.APIMonetization.APIMonetization_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_APIMonetization_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIMonetization/APIMonetization_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/APIMonetization/APIMonetization_LARGE-sprite.puml
-
-APIPlatformAndEcosystems.ApigeeAPIPlatform.ApigeeAPIPlatform:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_ApigeeAPIPlatform.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeAPIPlatform/ApigeeAPIPlatform.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeAPIPlatform/ApigeeAPIPlatform-sprite.puml
-
-APIPlatformAndEcosystems.ApigeeAPIPlatform.ApigeeAPIPlatform_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_ApigeeAPIPlatform_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeAPIPlatform/ApigeeAPIPlatform_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeAPIPlatform/ApigeeAPIPlatform_LARGE-sprite.puml
-
-APIPlatformAndEcosystems.ApigeeSense.ApigeeSense:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_ApigeeSense.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeSense/ApigeeSense.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeSense/ApigeeSense-sprite.puml
-
-APIPlatformAndEcosystems.ApigeeSense.ApigeeSense_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_ApigeeSense_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeSense/ApigeeSense_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/ApigeeSense/ApigeeSense_LARGE-sprite.puml
-
-APIPlatformAndEcosystems.CloudEndpoints.CloudEndpoints:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_CloudEndpoints.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/CloudEndpoints/CloudEndpoints.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/CloudEndpoints/CloudEndpoints-sprite.puml
-
-APIPlatformAndEcosystems.CloudEndpoints.CloudEndpoints_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_CloudEndpoints_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/CloudEndpoints/CloudEndpoints_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/CloudEndpoints/CloudEndpoints_LARGE-sprite.puml
-
-APIPlatformAndEcosystems.DeveloperPortal.DeveloperPortal:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_DeveloperPortal.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/DeveloperPortal/DeveloperPortal.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/DeveloperPortal/DeveloperPortal-sprite.puml
-
-APIPlatformAndEcosystems.DeveloperPortal.DeveloperPortal_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/APIPlatformAndEcosystems/APIPlatformAndEcosystems_DeveloperPortal_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/DeveloperPortal/DeveloperPortal_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/APIPlatformAndEcosystems/DeveloperPortal/DeveloperPortal_LARGE-sprite.puml
-
-BigData.BigQuery.BigQuery:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_BigQuery.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/BigQuery/BigQuery.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/BigQuery/BigQuery-sprite.puml
-
-BigData.BigQuery.BigQuery_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_BigQuery_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/BigQuery/BigQuery_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/BigQuery/BigQuery_LARGE-sprite.puml
-
-BigData.CloudComposer.CloudComposer:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudComposer.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudComposer/CloudComposer.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudComposer/CloudComposer-sprite.puml
-
-BigData.CloudComposer.CloudComposer_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudComposer_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudComposer/CloudComposer_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudComposer/CloudComposer_LARGE-sprite.puml
-
-BigData.CloudDataflow.CloudDataflow:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataflow.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataflow/CloudDataflow.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataflow/CloudDataflow-sprite.puml
-
-BigData.CloudDataflow.CloudDataflow_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataflow_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataflow/CloudDataflow_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataflow/CloudDataflow_LARGE-sprite.puml
-
-BigData.CloudDatalab.CloudDatalab:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDatalab.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDatalab/CloudDatalab.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDatalab/CloudDatalab-sprite.puml
-
-BigData.CloudDatalab.CloudDatalab_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDatalab_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDatalab/CloudDatalab_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDatalab/CloudDatalab_LARGE-sprite.puml
-
-BigData.CloudDataprep.CloudDataprep:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataprep.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataprep/CloudDataprep.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataprep/CloudDataprep-sprite.puml
-
-BigData.CloudDataprep.CloudDataprep_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataprep_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataprep/CloudDataprep_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataprep/CloudDataprep_LARGE-sprite.puml
-
-BigData.CloudDataproc.CloudDataproc:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataproc.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataproc/CloudDataproc.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataproc/CloudDataproc-sprite.puml
-
-BigData.CloudDataproc.CloudDataproc_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudDataproc_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataproc/CloudDataproc_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudDataproc/CloudDataproc_LARGE-sprite.puml
-
-BigData.CloudPubSub.CloudPubSub:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudPubSub.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudPubSub/CloudPubSub.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudPubSub/CloudPubSub-sprite.puml
-
-BigData.CloudPubSub.CloudPubSub_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_CloudPubSub_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudPubSub/CloudPubSub_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/CloudPubSub/CloudPubSub_LARGE-sprite.puml
-
-BigData.DataStudio.DataStudio:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_DataStudio.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/DataStudio/DataStudio.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/DataStudio/DataStudio-sprite.puml
-
-BigData.DataStudio.DataStudio_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_DataStudio_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/DataStudio/DataStudio_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/DataStudio/DataStudio_LARGE-sprite.puml
-
-BigData.Genomics.Genomics:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_Genomics.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/Genomics/Genomics.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/Genomics/Genomics-sprite.puml
-
-BigData.Genomics.Genomics_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/BigData/BigData_Genomics_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/Genomics/Genomics_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/BigData/Genomics/Genomics_LARGE-sprite.puml
-
-CloudAI.AdvancedSolutionsLab.AdvancedSolutionsLab:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_AdvancedSolutionsLab.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/AdvancedSolutionsLab/AdvancedSolutionsLab.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/AdvancedSolutionsLab/AdvancedSolutionsLab-sprite.puml
-
-CloudAI.AdvancedSolutionsLab.AdvancedSolutionsLab_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_AdvancedSolutionsLab_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/AdvancedSolutionsLab/AdvancedSolutionsLab_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/AdvancedSolutionsLab/AdvancedSolutionsLab_LARGE-sprite.puml
-
-CloudAI.CloudAutoML.CloudAutoML:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudAutoML.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudAutoML/CloudAutoML.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudAutoML/CloudAutoML-sprite.puml
-
-CloudAI.CloudAutoML.CloudAutoML_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudAutoML_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudAutoML/CloudAutoML_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudAutoML/CloudAutoML_LARGE-sprite.puml
-
-CloudAI.CloudJobsAPI.CloudJobsAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudJobsAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudJobsAPI/CloudJobsAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudJobsAPI/CloudJobsAPI-sprite.puml
-
-CloudAI.CloudJobsAPI.CloudJobsAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudJobsAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudJobsAPI/CloudJobsAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudJobsAPI/CloudJobsAPI_LARGE-sprite.puml
-
-CloudAI.CloudMachineLearning.CloudMachineLearning:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudMachineLearning.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudMachineLearning/CloudMachineLearning.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudMachineLearning/CloudMachineLearning-sprite.puml
-
-CloudAI.CloudMachineLearning.CloudMachineLearning_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudMachineLearning_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudMachineLearning/CloudMachineLearning_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudMachineLearning/CloudMachineLearning_LARGE-sprite.puml
-
-CloudAI.CloudNaturalLanguageAPI.CloudNaturalLanguageAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudNaturalLanguageAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudNaturalLanguageAPI/CloudNaturalLanguageAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudNaturalLanguageAPI/CloudNaturalLanguageAPI-sprite.puml
-
-CloudAI.CloudNaturalLanguageAPI.CloudNaturalLanguageAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudNaturalLanguageAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudNaturalLanguageAPI/CloudNaturalLanguageAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudNaturalLanguageAPI/CloudNaturalLanguageAPI_LARGE-sprite.puml
-
-CloudAI.CloudSpeechAPI.CloudSpeechAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudSpeechAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudSpeechAPI/CloudSpeechAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudSpeechAPI/CloudSpeechAPI-sprite.puml
-
-CloudAI.CloudSpeechAPI.CloudSpeechAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudSpeechAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudSpeechAPI/CloudSpeechAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudSpeechAPI/CloudSpeechAPI_LARGE-sprite.puml
-
-CloudAI.CloudTPU.CloudTPU:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudTPU.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTPU/CloudTPU.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTPU/CloudTPU-sprite.puml
-
-CloudAI.CloudTPU.CloudTPU_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudTPU_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTPU/CloudTPU_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTPU/CloudTPU_LARGE-sprite.puml
-
-CloudAI.CloudText_to_Speech.CloudText_to_Speech:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudText-to-Speech.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudText_to_Speech/CloudText_to_Speech.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudText_to_Speech/CloudText_to_Speech-sprite.puml
-
-CloudAI.CloudText_to_Speech.CloudText_to_Speech_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudText-to-Speech_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudText_to_Speech/CloudText_to_Speech_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudText_to_Speech/CloudText_to_Speech_LARGE-sprite.puml
-
-CloudAI.CloudTranslationAPI.CloudTranslationAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudTranslationAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTranslationAPI/CloudTranslationAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTranslationAPI/CloudTranslationAPI-sprite.puml
-
-CloudAI.CloudTranslationAPI.CloudTranslationAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudTranslationAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTranslationAPI/CloudTranslationAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudTranslationAPI/CloudTranslationAPI_LARGE-sprite.puml
-
-CloudAI.CloudVideoIntelligenceAPI.CloudVideoIntelligenceAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudVideoIntelligenceAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVideoIntelligenceAPI/CloudVideoIntelligenceAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVideoIntelligenceAPI/CloudVideoIntelligenceAPI-sprite.puml
-
-CloudAI.CloudVideoIntelligenceAPI.CloudVideoIntelligenceAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudVideoIntelligenceAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVideoIntelligenceAPI/CloudVideoIntelligenceAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVideoIntelligenceAPI/CloudVideoIntelligenceAPI_LARGE-sprite.puml
-
-CloudAI.CloudVisionAPI.CloudVisionAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudVisionAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVisionAPI/CloudVisionAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVisionAPI/CloudVisionAPI-sprite.puml
-
-CloudAI.CloudVisionAPI.CloudVisionAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_CloudVisionAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVisionAPI/CloudVisionAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/CloudVisionAPI/CloudVisionAPI_LARGE-sprite.puml
-
-CloudAI.DialogflowEnterpriseEdition.DialogflowEnterpriseEdition:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_DialogflowEnterpriseEdition.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/DialogflowEnterpriseEdition/DialogflowEnterpriseEdition.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/DialogflowEnterpriseEdition/DialogflowEnterpriseEdition-sprite.puml
-
-CloudAI.DialogflowEnterpriseEdition.DialogflowEnterpriseEdition_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/CloudAI/CloudAI_DialogflowEnterpriseEdition_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/DialogflowEnterpriseEdition/DialogflowEnterpriseEdition_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/CloudAI/DialogflowEnterpriseEdition/DialogflowEnterpriseEdition_LARGE-sprite.puml
-
-Compute.AppEngine.AppEngine:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_AppEngine.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/AppEngine/AppEngine.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/AppEngine/AppEngine-sprite.puml
-
-Compute.AppEngine.AppEngine_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_AppEngine_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/AppEngine/AppEngine_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/AppEngine/AppEngine_LARGE-sprite.puml
-
-Compute.CloudFunctions.CloudFunctions:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_CloudFunctions.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/CloudFunctions/CloudFunctions.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/CloudFunctions/CloudFunctions-sprite.puml
-
-Compute.CloudFunctions.CloudFunctions_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_CloudFunctions_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/CloudFunctions/CloudFunctions_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/CloudFunctions/CloudFunctions_LARGE-sprite.puml
-
-Compute.ComputeEngine.ComputeEngine:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_ComputeEngine.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ComputeEngine/ComputeEngine.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ComputeEngine/ComputeEngine-sprite.puml
-
-Compute.ComputeEngine.ComputeEngine_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_ComputeEngine_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ComputeEngine/ComputeEngine_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ComputeEngine/ComputeEngine_LARGE-sprite.puml
-
-Compute.ContainerEngine.ContainerEngine:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_ContainerEngine.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ContainerEngine/ContainerEngine.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ContainerEngine/ContainerEngine-sprite.puml
-
-Compute.ContainerEngine.ContainerEngine_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_ContainerEngine_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ContainerEngine/ContainerEngine_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/ContainerEngine/ContainerEngine_LARGE-sprite.puml
-
-Compute.Container_OptimizedOS.Container_OptimizedOS:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_Container-OptimizedOS.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/Container_OptimizedOS/Container_OptimizedOS.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/Container_OptimizedOS/Container_OptimizedOS-sprite.puml
-
-Compute.Container_OptimizedOS.Container_OptimizedOS_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_Container-OptimizedOS_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/Container_OptimizedOS/Container_OptimizedOS_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/Container_OptimizedOS/Container_OptimizedOS_LARGE-sprite.puml
-
-Compute.GPU.GPU:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GPU.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GPU/GPU.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GPU/GPU-sprite.puml
-
-Compute.GPU.GPU_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GPU_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GPU/GPU_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GPU/GPU_LARGE-sprite.puml
-
-DataTransfer.TransferAppliance.TransferAppliance:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DataTransfer/DataTransfer_TransferAppliance.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DataTransfer/TransferAppliance/TransferAppliance.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DataTransfer/TransferAppliance/TransferAppliance-sprite.puml
-
-DataTransfer.TransferAppliance.TransferAppliance_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DataTransfer/DataTransfer_TransferAppliance_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DataTransfer/TransferAppliance/TransferAppliance_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DataTransfer/TransferAppliance/TransferAppliance_LARGE-sprite.puml
-
-DeveloperTools.CloudDeploymentManager.CloudDeploymentManager:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudDeploymentManager.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudDeploymentManager/CloudDeploymentManager.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudDeploymentManager/CloudDeploymentManager-sprite.puml
-
-DeveloperTools.CloudDeploymentManager.CloudDeploymentManager_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudDeploymentManager_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudDeploymentManager/CloudDeploymentManager_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudDeploymentManager/CloudDeploymentManager_LARGE-sprite.puml
-
-DeveloperTools.CloudSDK.CloudSDK:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudSDK.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSDK/CloudSDK.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSDK/CloudSDK-sprite.puml
-
-DeveloperTools.CloudSDK.CloudSDK_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudSDK_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSDK/CloudSDK_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSDK/CloudSDK_LARGE-sprite.puml
-
-DeveloperTools.CloudSourceRepositories.CloudSourceRepositories:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudSourceRepositories.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSourceRepositories/CloudSourceRepositories.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSourceRepositories/CloudSourceRepositories-sprite.puml
-
-DeveloperTools.CloudSourceRepositories.CloudSourceRepositories_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudSourceRepositories_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSourceRepositories/CloudSourceRepositories_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudSourceRepositories/CloudSourceRepositories_LARGE-sprite.puml
-
-DeveloperTools.CloudTestLab.CloudTestLab:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudTestLab.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudTestLab/CloudTestLab.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudTestLab/CloudTestLab-sprite.puml
-
-DeveloperTools.CloudTestLab.CloudTestLab_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_CloudTestLab_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudTestLab/CloudTestLab_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/CloudTestLab/CloudTestLab_LARGE-sprite.puml
-
-DeveloperTools.ContainerBuilder.ContainerBuilder:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_ContainerBuilder.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerBuilder/ContainerBuilder.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerBuilder/ContainerBuilder-sprite.puml
-
-DeveloperTools.ContainerBuilder.ContainerBuilder_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_ContainerBuilder_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerBuilder/ContainerBuilder_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerBuilder/ContainerBuilder_LARGE-sprite.puml
-
-DeveloperTools.ContainerRegistry.ContainerRegistry:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_ContainerRegistry.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerRegistry/ContainerRegistry.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerRegistry/ContainerRegistry-sprite.puml
-
-DeveloperTools.ContainerRegistry.ContainerRegistry_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/DeveloperTools/DeveloperTools_ContainerRegistry_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerRegistry/ContainerRegistry_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/DeveloperTools/ContainerRegistry/ContainerRegistry_LARGE-sprite.puml
-
-IdentityAndSecurity.BeyondCorp.BeyondCorp:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_BeyondCorp.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/BeyondCorp/BeyondCorp.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/BeyondCorp/BeyondCorp-sprite.puml
-
-IdentityAndSecurity.BeyondCorp.BeyondCorp_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_BeyondCorp_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/BeyondCorp/BeyondCorp_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/BeyondCorp/BeyondCorp_LARGE-sprite.puml
-
-IdentityAndSecurity.CloudIAM.CloudIAM:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudIAM.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudIAM/CloudIAM.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudIAM/CloudIAM-sprite.puml
-
-IdentityAndSecurity.CloudIAM.CloudIAM_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudIAM_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudIAM/CloudIAM_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudIAM/CloudIAM_LARGE-sprite.puml
-
-IdentityAndSecurity.CloudResourceManager.CloudResourceManager:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudResourceManager.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudResourceManager/CloudResourceManager.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudResourceManager/CloudResourceManager-sprite.puml
-
-IdentityAndSecurity.CloudResourceManager.CloudResourceManager_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudResourceManager_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudResourceManager/CloudResourceManager_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudResourceManager/CloudResourceManager_LARGE-sprite.puml
-
-IdentityAndSecurity.CloudSecurityCommandCenter.CloudSecurityCommandCenter:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudSecurityCommandCenter.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityCommandCenter/CloudSecurityCommandCenter.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityCommandCenter/CloudSecurityCommandCenter-sprite.puml
-
-IdentityAndSecurity.CloudSecurityCommandCenter.CloudSecurityCommandCenter_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudSecurityCommandCenter_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityCommandCenter/CloudSecurityCommandCenter_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityCommandCenter/CloudSecurityCommandCenter_LARGE-sprite.puml
-
-IdentityAndSecurity.CloudSecurityScanner.CloudSecurityScanner:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudSecurityScanner.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityScanner/CloudSecurityScanner.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityScanner/CloudSecurityScanner-sprite.puml
-
-IdentityAndSecurity.CloudSecurityScanner.CloudSecurityScanner_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_CloudSecurityScanner_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityScanner/CloudSecurityScanner_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/CloudSecurityScanner/CloudSecurityScanner_LARGE-sprite.puml
-
-IdentityAndSecurity.DataLossPreventionAPI.DataLossPreventionAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_DataLossPreventionAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/DataLossPreventionAPI/DataLossPreventionAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/DataLossPreventionAPI/DataLossPreventionAPI-sprite.puml
-
-IdentityAndSecurity.DataLossPreventionAPI.DataLossPreventionAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_DataLossPreventionAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/DataLossPreventionAPI/DataLossPreventionAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/DataLossPreventionAPI/DataLossPreventionAPI_LARGE-sprite.puml
-
-IdentityAndSecurity.Identity_AwareProxy.Identity_AwareProxy:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_Identity-AwareProxy.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/Identity_AwareProxy/Identity_AwareProxy.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/Identity_AwareProxy/Identity_AwareProxy-sprite.puml
-
-IdentityAndSecurity.Identity_AwareProxy.Identity_AwareProxy_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_Identity-AwareProxy_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/Identity_AwareProxy/Identity_AwareProxy_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/Identity_AwareProxy/Identity_AwareProxy_LARGE-sprite.puml
-
-IdentityAndSecurity.KeyManagementService.KeyManagementService:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_KeyManagementService.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/KeyManagementService/KeyManagementService.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/KeyManagementService/KeyManagementService-sprite.puml
-
-IdentityAndSecurity.KeyManagementService.KeyManagementService_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_KeyManagementService_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/KeyManagementService/KeyManagementService_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/KeyManagementService/KeyManagementService_LARGE-sprite.puml
-
-IdentityAndSecurity.SecurityKeyEnforcement.SecurityKeyEnforcement:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_SecurityKeyEnforcement.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/SecurityKeyEnforcement/SecurityKeyEnforcement.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/SecurityKeyEnforcement/SecurityKeyEnforcement-sprite.puml
-
-IdentityAndSecurity.SecurityKeyEnforcement.SecurityKeyEnforcement_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/IdentityAndSecurity/IdentityAndSecurity_SecurityKeyEnforcement_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/SecurityKeyEnforcement/SecurityKeyEnforcement_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/IdentityAndSecurity/SecurityKeyEnforcement/SecurityKeyEnforcement_LARGE-sprite.puml
-
-InternetofThings.CloudIoTCore.CloudIoTCore:
-	- /home/andrew/Projects/GCP-PlantUML/icons/InternetofThings/InternetofThings_CloudIoTCore.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/InternetofThings/CloudIoTCore/CloudIoTCore.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/InternetofThings/CloudIoTCore/CloudIoTCore-sprite.puml
-
-InternetofThings.CloudIoTCore.CloudIoTCore_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/InternetofThings/InternetofThings_CloudIoTCore_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/InternetofThings/CloudIoTCore/CloudIoTCore_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/InternetofThings/CloudIoTCore/CloudIoTCore_LARGE-sprite.puml
-
-ManagementTools.CloudAPIs.CloudAPIs:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudAPIs.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudAPIs/CloudAPIs.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudAPIs/CloudAPIs-sprite.puml
-
-ManagementTools.CloudAPIs.CloudAPIs_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudAPIs_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudAPIs/CloudAPIs_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudAPIs/CloudAPIs_LARGE-sprite.puml
-
-ManagementTools.CloudBillingAPI.CloudBillingAPI:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudBillingAPI.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudBillingAPI/CloudBillingAPI.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudBillingAPI/CloudBillingAPI-sprite.puml
-
-ManagementTools.CloudBillingAPI.CloudBillingAPI_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudBillingAPI_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudBillingAPI/CloudBillingAPI_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudBillingAPI/CloudBillingAPI_LARGE-sprite.puml
-
-ManagementTools.CloudConsole.CloudConsole:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudConsole.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudConsole/CloudConsole.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudConsole/CloudConsole-sprite.puml
-
-ManagementTools.CloudConsole.CloudConsole_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudConsole_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudConsole/CloudConsole_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudConsole/CloudConsole_LARGE-sprite.puml
-
-ManagementTools.CloudDeploymentManager.CloudDeploymentManager:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudDeploymentManager.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudDeploymentManager/CloudDeploymentManager.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudDeploymentManager/CloudDeploymentManager-sprite.puml
-
-ManagementTools.CloudDeploymentManager.CloudDeploymentManager_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudDeploymentManager_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudDeploymentManager/CloudDeploymentManager_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudDeploymentManager/CloudDeploymentManager_LARGE-sprite.puml
-
-ManagementTools.CloudMobileApp.CloudMobileApp:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudMobileApp.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudMobileApp/CloudMobileApp.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudMobileApp/CloudMobileApp-sprite.puml
-
-ManagementTools.CloudMobileApp.CloudMobileApp_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudMobileApp_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudMobileApp/CloudMobileApp_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudMobileApp/CloudMobileApp_LARGE-sprite.puml
-
-ManagementTools.CloudShell.CloudShell:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudShell.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudShell/CloudShell.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudShell/CloudShell-sprite.puml
-
-ManagementTools.CloudShell.CloudShell_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_CloudShell_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudShell/CloudShell_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/CloudShell/CloudShell_LARGE-sprite.puml
-
-ManagementTools.Debugger.Debugger:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Debugger.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Debugger/Debugger.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Debugger/Debugger-sprite.puml
-
-ManagementTools.Debugger.Debugger_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Debugger_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Debugger/Debugger_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Debugger/Debugger_LARGE-sprite.puml
-
-ManagementTools.ErrorReporting.ErrorReporting:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_ErrorReporting.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/ErrorReporting/ErrorReporting.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/ErrorReporting/ErrorReporting-sprite.puml
-
-ManagementTools.ErrorReporting.ErrorReporting_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_ErrorReporting_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/ErrorReporting/ErrorReporting_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/ErrorReporting/ErrorReporting_LARGE-sprite.puml
-
-ManagementTools.Logging.Logging:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Logging.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Logging/Logging.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Logging/Logging-sprite.puml
-
-ManagementTools.Logging.Logging_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Logging_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Logging/Logging_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Logging/Logging_LARGE-sprite.puml
-
-ManagementTools.Monitoring.Monitoring:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Monitoring.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Monitoring/Monitoring.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Monitoring/Monitoring-sprite.puml
-
-ManagementTools.Monitoring.Monitoring_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Monitoring_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Monitoring/Monitoring_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Monitoring/Monitoring_LARGE-sprite.puml
-
-ManagementTools.Stackdriver.Stackdriver:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Stackdriver.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Stackdriver/Stackdriver.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Stackdriver/Stackdriver-sprite.puml
-
-ManagementTools.Stackdriver.Stackdriver_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Stackdriver_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Stackdriver/Stackdriver_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Stackdriver/Stackdriver_LARGE-sprite.puml
-
-ManagementTools.Trace.Trace:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Trace.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Trace/Trace.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Trace/Trace-sprite.puml
-
-ManagementTools.Trace.Trace_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/ManagementTools/ManagementTools_Trace_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Trace/Trace_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/ManagementTools/Trace/Trace_LARGE-sprite.puml
-
-Networking.CloudArmor.CloudArmor:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudArmor.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudArmor/CloudArmor.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudArmor/CloudArmor-sprite.puml
-
-Networking.CloudArmor.CloudArmor_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudArmor_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudArmor/CloudArmor_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudArmor/CloudArmor_LARGE-sprite.puml
-
-Networking.CloudCDN.CloudCDN:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudCDN.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudCDN/CloudCDN.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudCDN/CloudCDN-sprite.puml
-
-Networking.CloudCDN.CloudCDN_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudCDN_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudCDN/CloudCDN_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudCDN/CloudCDN_LARGE-sprite.puml
-
-Networking.CloudDNS.CloudDNS:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudDNS.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudDNS/CloudDNS.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudDNS/CloudDNS-sprite.puml
-
-Networking.CloudDNS.CloudDNS_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudDNS_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudDNS/CloudDNS_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudDNS/CloudDNS_LARGE-sprite.puml
-
-Networking.CloudExternalIPAddresses.CloudExternalIPAddresses:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudExternalIPAddresses.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudExternalIPAddresses/CloudExternalIPAddresses.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudExternalIPAddresses/CloudExternalIPAddresses-sprite.puml
-
-Networking.CloudExternalIPAddresses.CloudExternalIPAddresses_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudExternalIPAddresses_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudExternalIPAddresses/CloudExternalIPAddresses_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudExternalIPAddresses/CloudExternalIPAddresses_LARGE-sprite.puml
-
-Networking.CloudFirewallRules.CloudFirewallRules:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudFirewallRules.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudFirewallRules/CloudFirewallRules.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudFirewallRules/CloudFirewallRules-sprite.puml
-
-Networking.CloudFirewallRules.CloudFirewallRules_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudFirewallRules_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudFirewallRules/CloudFirewallRules_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudFirewallRules/CloudFirewallRules_LARGE-sprite.puml
-
-Networking.CloudLoadBalancing.CloudLoadBalancing:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudLoadBalancing.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudLoadBalancing/CloudLoadBalancing.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudLoadBalancing/CloudLoadBalancing-sprite.puml
-
-Networking.CloudLoadBalancing.CloudLoadBalancing_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudLoadBalancing_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudLoadBalancing/CloudLoadBalancing_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudLoadBalancing/CloudLoadBalancing_LARGE-sprite.puml
-
-Networking.CloudNetwork.CloudNetwork:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudNetwork.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudNetwork/CloudNetwork.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudNetwork/CloudNetwork-sprite.puml
-
-Networking.CloudNetwork.CloudNetwork_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudNetwork_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudNetwork/CloudNetwork_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudNetwork/CloudNetwork_LARGE-sprite.puml
-
-Networking.CloudRouter.CloudRouter:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudRouter.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRouter/CloudRouter.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRouter/CloudRouter-sprite.puml
-
-Networking.CloudRouter.CloudRouter_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudRouter_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRouter/CloudRouter_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRouter/CloudRouter_LARGE-sprite.puml
-
-Networking.CloudRoutes.CloudRoutes:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudRoutes.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRoutes/CloudRoutes.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRoutes/CloudRoutes-sprite.puml
-
-Networking.CloudRoutes.CloudRoutes_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudRoutes_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRoutes/CloudRoutes_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudRoutes/CloudRoutes_LARGE-sprite.puml
-
-Networking.CloudVPN.CloudVPN:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudVPN.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudVPN/CloudVPN.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudVPN/CloudVPN-sprite.puml
-
-Networking.CloudVPN.CloudVPN_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_CloudVPN_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudVPN/CloudVPN_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/CloudVPN/CloudVPN_LARGE-sprite.puml
-
-Networking.DedicatedInterconnect.DedicatedInterconnect:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_DedicatedInterconnect.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/DedicatedInterconnect/DedicatedInterconnect.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/DedicatedInterconnect/DedicatedInterconnect-sprite.puml
-
-Networking.DedicatedInterconnect.DedicatedInterconnect_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_DedicatedInterconnect_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/DedicatedInterconnect/DedicatedInterconnect_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/DedicatedInterconnect/DedicatedInterconnect_LARGE-sprite.puml
-
-Networking.PartnerInterconnect.PartnerInterconnect:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_PartnerInterconnect.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PartnerInterconnect/PartnerInterconnect.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PartnerInterconnect/PartnerInterconnect-sprite.puml
-
-Networking.PartnerInterconnect.PartnerInterconnect_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_PartnerInterconnect_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PartnerInterconnect/PartnerInterconnect_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PartnerInterconnect/PartnerInterconnect_LARGE-sprite.puml
-
-Networking.PremiumNetworkTier.PremiumNetworkTier:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_PremiumNetworkTier.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PremiumNetworkTier/PremiumNetworkTier.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PremiumNetworkTier/PremiumNetworkTier-sprite.puml
-
-Networking.PremiumNetworkTier.PremiumNetworkTier_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_PremiumNetworkTier_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PremiumNetworkTier/PremiumNetworkTier_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/PremiumNetworkTier/PremiumNetworkTier_LARGE-sprite.puml
-
-Networking.StandardNetworkTier.StandardNetworkTier:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_StandardNetworkTier.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/StandardNetworkTier/StandardNetworkTier.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/StandardNetworkTier/StandardNetworkTier-sprite.puml
-
-Networking.StandardNetworkTier.StandardNetworkTier_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_StandardNetworkTier_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/StandardNetworkTier/StandardNetworkTier_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/StandardNetworkTier/StandardNetworkTier_LARGE-sprite.puml
-
-Networking.VirtualPrivateCloud.VirtualPrivateCloud:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_VirtualPrivateCloud.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/VirtualPrivateCloud/VirtualPrivateCloud.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/VirtualPrivateCloud/VirtualPrivateCloud-sprite.puml
-
-Networking.VirtualPrivateCloud.VirtualPrivateCloud_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_VirtualPrivateCloud_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/VirtualPrivateCloud/VirtualPrivateCloud_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/VirtualPrivateCloud/VirtualPrivateCloud_LARGE-sprite.puml
-
-StorageAndDatabases.CloudBigtable.CloudBigtable:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudBigtable.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudBigtable/CloudBigtable.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudBigtable/CloudBigtable-sprite.puml
-
-StorageAndDatabases.CloudBigtable.CloudBigtable_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudBigtable_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudBigtable/CloudBigtable_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudBigtable/CloudBigtable_LARGE-sprite.puml
-
-StorageAndDatabases.CloudDatastore.CloudDatastore:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudDatastore.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudDatastore/CloudDatastore.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudDatastore/CloudDatastore-sprite.puml
-
-StorageAndDatabases.CloudDatastore.CloudDatastore_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudDatastore_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudDatastore/CloudDatastore_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudDatastore/CloudDatastore_LARGE-sprite.puml
-
-StorageAndDatabases.CloudFilestore.CloudFilestore:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudFilestore.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudFilestore/CloudFilestore.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudFilestore/CloudFilestore-sprite.puml
-
-StorageAndDatabases.CloudFilestore.CloudFilestore_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudFilestore_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudFilestore/CloudFilestore_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudFilestore/CloudFilestore_LARGE-sprite.puml
-
-StorageAndDatabases.CloudMemorystore.CloudMemorystore:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudMemorystore.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudMemorystore/CloudMemorystore.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudMemorystore/CloudMemorystore-sprite.puml
-
-StorageAndDatabases.CloudMemorystore.CloudMemorystore_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudMemorystore_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudMemorystore/CloudMemorystore_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudMemorystore/CloudMemorystore_LARGE-sprite.puml
-
-StorageAndDatabases.CloudSQL.CloudSQL:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudSQL.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSQL/CloudSQL.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSQL/CloudSQL-sprite.puml
-
-StorageAndDatabases.CloudSQL.CloudSQL_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudSQL_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSQL/CloudSQL_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSQL/CloudSQL_LARGE-sprite.puml
-
-StorageAndDatabases.CloudSpanner.CloudSpanner:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudSpanner.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSpanner/CloudSpanner.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSpanner/CloudSpanner-sprite.puml
-
-StorageAndDatabases.CloudSpanner.CloudSpanner_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudSpanner_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSpanner/CloudSpanner_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudSpanner/CloudSpanner_LARGE-sprite.puml
-
-StorageAndDatabases.CloudStorage.CloudStorage:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudStorage.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudStorage/CloudStorage.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudStorage/CloudStorage-sprite.puml
-
-StorageAndDatabases.CloudStorage.CloudStorage_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_CloudStorage_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudStorage/CloudStorage_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/CloudStorage/CloudStorage_LARGE-sprite.puml
-
-StorageAndDatabases.PersistentDisk.PersistentDisk:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_PersistentDisk.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/PersistentDisk/PersistentDisk.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/PersistentDisk/PersistentDisk-sprite.puml
-
-StorageAndDatabases.PersistentDisk.PersistentDisk_LARGE:
-	- /home/andrew/Projects/GCP-PlantUML/icons/StorageAndDatabases/StorageAndDatabases_PersistentDisk_LARGE.png
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/PersistentDisk/PersistentDisk_LARGE.puml
-	- /home/andrew/Projects/GCP-PlantUML/dist/StorageAndDatabases/PersistentDisk/PersistentDisk_LARGE-sprite.puml
+API_Platform_And_Ecosystems.GCP_API_Analytics.GCP_API_Analytics:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-API-Analytics.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_API_Analytics.GCP_API_Analytics_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-API-Analytics_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics_LARGE-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_API_Monetization.GCP_API_Monetization:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-API-Monetization.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_API_Monetization.GCP_API_Monetization_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-API-Monetization_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization_LARGE-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Apigee_API_Platform.GCP_Apigee_API_Platform:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Apigee-API-Platform.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Apigee_API_Platform.GCP_Apigee_API_Platform_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Apigee-API-Platform_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform_LARGE-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Apigee_Sense.GCP_Apigee_Sense:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Apigee-Sense.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Apigee_Sense.GCP_Apigee_Sense_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Apigee-Sense_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense_LARGE-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Cloud_Endpoints.GCP_Cloud_Endpoints:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Cloud-Endpoints.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Cloud_Endpoints.GCP_Cloud_Endpoints_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Cloud-Endpoints_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints_LARGE-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Developer_Portal.GCP_Developer_Portal:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Developer-Portal.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal-sprite.puml
+
+API_Platform_And_Ecosystems.GCP_Developer_Portal.GCP_Developer_Portal_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/API-Platform-And-Ecosystems/API-Platform-And-Ecosystems_GCP-Developer-Portal_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal_LARGE-sprite.puml
+
+Big_Data.GCP_BigQuery.GCP_BigQuery:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-BigQuery.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_BigQuery/GCP_BigQuery.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_BigQuery/GCP_BigQuery-sprite.puml
+
+Big_Data.GCP_BigQuery.GCP_BigQuery_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-BigQuery_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_BigQuery/GCP_BigQuery_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_BigQuery/GCP_BigQuery_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_Composer.GCP_Cloud_Composer:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Composer.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer-sprite.puml
+
+Big_Data.GCP_Cloud_Composer.GCP_Cloud_Composer_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Composer_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_Dataflow.GCP_Cloud_Dataflow:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataflow.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow-sprite.puml
+
+Big_Data.GCP_Cloud_Dataflow.GCP_Cloud_Dataflow_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataflow_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_Datalab.GCP_Cloud_Datalab:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Datalab.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab-sprite.puml
+
+Big_Data.GCP_Cloud_Datalab.GCP_Cloud_Datalab_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Datalab_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_Dataprep.GCP_Cloud_Dataprep:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataprep.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep-sprite.puml
+
+Big_Data.GCP_Cloud_Dataprep.GCP_Cloud_Dataprep_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataprep_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_Dataproc.GCP_Cloud_Dataproc:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataproc.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc-sprite.puml
+
+Big_Data.GCP_Cloud_Dataproc.GCP_Cloud_Dataproc_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-Dataproc_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc_LARGE-sprite.puml
+
+Big_Data.GCP_Cloud_PubSub.GCP_Cloud_PubSub:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-PubSub.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub-sprite.puml
+
+Big_Data.GCP_Cloud_PubSub.GCP_Cloud_PubSub_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Cloud-PubSub_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub_LARGE-sprite.puml
+
+Big_Data.GCP_Data_Studio.GCP_Data_Studio:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Data-Studio.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Data_Studio/GCP_Data_Studio.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Data_Studio/GCP_Data_Studio-sprite.puml
+
+Big_Data.GCP_Data_Studio.GCP_Data_Studio_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Data-Studio_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Data_Studio/GCP_Data_Studio_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Data_Studio/GCP_Data_Studio_LARGE-sprite.puml
+
+Big_Data.GCP_Genomics.GCP_Genomics:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Genomics.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Genomics/GCP_Genomics.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Genomics/GCP_Genomics-sprite.puml
+
+Big_Data.GCP_Genomics.GCP_Genomics_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Big-Data/Big-Data_GCP-Genomics_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Genomics/GCP_Genomics_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Big_Data/GCP_Genomics/GCP_Genomics_LARGE-sprite.puml
+
+Cloud_AI.GCP_Advanced_Solutions_Lab.GCP_Advanced_Solutions_Lab:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Advanced-Solutions-Lab.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab-sprite.puml
+
+Cloud_AI.GCP_Advanced_Solutions_Lab.GCP_Advanced_Solutions_Lab_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Advanced-Solutions-Lab_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_AutoML.GCP_Cloud_AutoML:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-AutoML.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML-sprite.puml
+
+Cloud_AI.GCP_Cloud_AutoML.GCP_Cloud_AutoML_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-AutoML_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Jobs_API.GCP_Cloud_Jobs_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Jobs-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Jobs_API.GCP_Cloud_Jobs_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Jobs-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Machine_Learning.GCP_Cloud_Machine_Learning:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Machine-Learning.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning-sprite.puml
+
+Cloud_AI.GCP_Cloud_Machine_Learning.GCP_Cloud_Machine_Learning_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Machine-Learning_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Natural_Language_API.GCP_Cloud_Natural_Language_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Natural-Language-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Natural_Language_API.GCP_Cloud_Natural_Language_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Natural-Language-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Speech_API.GCP_Cloud_Speech_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Speech-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Speech_API.GCP_Cloud_Speech_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Speech-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_TPU.GCP_Cloud_TPU:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-TPU.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU-sprite.puml
+
+Cloud_AI.GCP_Cloud_TPU.GCP_Cloud_TPU_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-TPU_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Text_to_Speech.GCP_Cloud_Text_to_Speech:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Text-to-Speech.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech-sprite.puml
+
+Cloud_AI.GCP_Cloud_Text_to_Speech.GCP_Cloud_Text_to_Speech_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Text-to-Speech_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Translation_API.GCP_Cloud_Translation_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Translation-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Translation_API.GCP_Cloud_Translation_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Translation-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Video_Intelligence_API.GCP_Cloud_Video_Intelligence_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Video-Intelligence-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Video_Intelligence_API.GCP_Cloud_Video_Intelligence_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Video-Intelligence-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Cloud_Vision_API.GCP_Cloud_Vision_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Vision-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API-sprite.puml
+
+Cloud_AI.GCP_Cloud_Vision_API.GCP_Cloud_Vision_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Cloud-Vision-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API_LARGE-sprite.puml
+
+Cloud_AI.GCP_Dialogflow_Enterprise_Edition.GCP_Dialogflow_Enterprise_Edition:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Dialogflow-Enterprise-Edition.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition-sprite.puml
+
+Cloud_AI.GCP_Dialogflow_Enterprise_Edition.GCP_Dialogflow_Enterprise_Edition_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Cloud-AI/Cloud-AI_GCP-Dialogflow-Enterprise-Edition_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition_LARGE-sprite.puml
+
+Compute.GCP_App_Engine.GCP_App_Engine:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-App-Engine.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_App_Engine/GCP_App_Engine.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_App_Engine/GCP_App_Engine-sprite.puml
+
+Compute.GCP_App_Engine.GCP_App_Engine_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-App-Engine_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_App_Engine/GCP_App_Engine_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_App_Engine/GCP_App_Engine_LARGE-sprite.puml
+
+Compute.GCP_Cloud_Functions.GCP_Cloud_Functions:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Cloud-Functions.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions-sprite.puml
+
+Compute.GCP_Cloud_Functions.GCP_Cloud_Functions_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Cloud-Functions_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions_LARGE-sprite.puml
+
+Compute.GCP_Compute_Engine.GCP_Compute_Engine:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Compute-Engine.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Compute_Engine/GCP_Compute_Engine.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Compute_Engine/GCP_Compute_Engine-sprite.puml
+
+Compute.GCP_Compute_Engine.GCP_Compute_Engine_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Compute-Engine_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Compute_Engine/GCP_Compute_Engine_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Compute_Engine/GCP_Compute_Engine_LARGE-sprite.puml
+
+Compute.GCP_Container_Engine.GCP_Container_Engine:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Container-Engine.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Engine/GCP_Container_Engine.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Engine/GCP_Container_Engine-sprite.puml
+
+Compute.GCP_Container_Engine.GCP_Container_Engine_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Container-Engine_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Engine/GCP_Container_Engine_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Engine/GCP_Container_Engine_LARGE-sprite.puml
+
+Compute.GCP_Container_Optimized_OS.GCP_Container_Optimized_OS:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Container-Optimized-OS.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS-sprite.puml
+
+Compute.GCP_Container_Optimized_OS.GCP_Container_Optimized_OS_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-Container-Optimized-OS_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS_LARGE-sprite.puml
+
+Compute.GCP_GPU.GCP_GPU:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-GPU.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_GPU/GCP_GPU.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_GPU/GCP_GPU-sprite.puml
+
+Compute.GCP_GPU.GCP_GPU_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Compute/Compute_GCP-GPU_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_GPU/GCP_GPU_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Compute/GCP_GPU/GCP_GPU_LARGE-sprite.puml
+
+Data_Transfer.GCP_Transfer_Appliance.GCP_Transfer_Appliance:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Data-Transfer/Data-Transfer_GCP-Transfer-Appliance.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Data_Transfer/GCP_Transfer_Appliance/GCP_Transfer_Appliance.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Data_Transfer/GCP_Transfer_Appliance/GCP_Transfer_Appliance-sprite.puml
+
+Data_Transfer.GCP_Transfer_Appliance.GCP_Transfer_Appliance_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Data-Transfer/Data-Transfer_GCP-Transfer-Appliance_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Data_Transfer/GCP_Transfer_Appliance/GCP_Transfer_Appliance_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Data_Transfer/GCP_Transfer_Appliance/GCP_Transfer_Appliance_LARGE-sprite.puml
+
+Developer_Tools.GCP_Cloud_Deployment_Manager.GCP_Cloud_Deployment_Manager:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Deployment-Manager.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager-sprite.puml
+
+Developer_Tools.GCP_Cloud_Deployment_Manager.GCP_Cloud_Deployment_Manager_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Deployment-Manager_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE-sprite.puml
+
+Developer_Tools.GCP_Cloud_SDK.GCP_Cloud_SDK:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-SDK.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK-sprite.puml
+
+Developer_Tools.GCP_Cloud_SDK.GCP_Cloud_SDK_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-SDK_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK_LARGE-sprite.puml
+
+Developer_Tools.GCP_Cloud_Source_Repositories.GCP_Cloud_Source_Repositories:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Source-Repositories.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories-sprite.puml
+
+Developer_Tools.GCP_Cloud_Source_Repositories.GCP_Cloud_Source_Repositories_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Source-Repositories_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories_LARGE-sprite.puml
+
+Developer_Tools.GCP_Cloud_Test_Lab.GCP_Cloud_Test_Lab:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Test-Lab.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab-sprite.puml
+
+Developer_Tools.GCP_Cloud_Test_Lab.GCP_Cloud_Test_Lab_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Cloud-Test-Lab_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab_LARGE-sprite.puml
+
+Developer_Tools.GCP_Container_Builder.GCP_Container_Builder:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Container-Builder.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder-sprite.puml
+
+Developer_Tools.GCP_Container_Builder.GCP_Container_Builder_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Container-Builder_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder_LARGE-sprite.puml
+
+Developer_Tools.GCP_Container_Registry.GCP_Container_Registry:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Container-Registry.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry-sprite.puml
+
+Developer_Tools.GCP_Container_Registry.GCP_Container_Registry_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Developer-Tools/Developer-Tools_GCP-Container-Registry_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry_LARGE-sprite.puml
+
+GCP_Istio.GCP_Istio:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Istio.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Istio/GCP_Istio.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Istio/GCP_Istio-sprite.puml
+
+GCP_Istio.GCP_Istio_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Istio_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Istio/GCP_Istio_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Istio/GCP_Istio_LARGE-sprite.puml
+
+GCP_Kubernetes.GCP_Kubernetes:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Kubernetes.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Kubernetes/GCP_Kubernetes.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Kubernetes/GCP_Kubernetes-sprite.puml
+
+GCP_Kubernetes.GCP_Kubernetes_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Kubernetes_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Kubernetes/GCP_Kubernetes_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Kubernetes/GCP_Kubernetes_LARGE-sprite.puml
+
+GCP_Platform.GCP_Platform:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Platform.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Platform/GCP_Platform.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Platform/GCP_Platform-sprite.puml
+
+GCP_Platform.GCP_Platform_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-Platform_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Platform/GCP_Platform_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_Platform/GCP_Platform_LARGE-sprite.puml
+
+GCP_TensorFlow.GCP_TensorFlow:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-TensorFlow.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_TensorFlow/GCP_TensorFlow.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_TensorFlow/GCP_TensorFlow-sprite.puml
+
+GCP_TensorFlow.GCP_TensorFlow_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/GCP-TensorFlow_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_TensorFlow/GCP_TensorFlow_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/GCP_TensorFlow/GCP_TensorFlow_LARGE-sprite.puml
+
+Identity_And_Security.GCP_BeyondCorp.GCP_BeyondCorp:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-BeyondCorp.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_BeyondCorp/GCP_BeyondCorp.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_BeyondCorp/GCP_BeyondCorp-sprite.puml
+
+Identity_And_Security.GCP_BeyondCorp.GCP_BeyondCorp_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-BeyondCorp_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_BeyondCorp/GCP_BeyondCorp_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_BeyondCorp/GCP_BeyondCorp_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Cloud_IAM.GCP_Cloud_IAM:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-IAM.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_IAM/GCP_Cloud_IAM.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_IAM/GCP_Cloud_IAM-sprite.puml
+
+Identity_And_Security.GCP_Cloud_IAM.GCP_Cloud_IAM_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-IAM_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_IAM/GCP_Cloud_IAM_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_IAM/GCP_Cloud_IAM_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Resource_Manager.GCP_Cloud_Resource_Manager:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Resource-Manager.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Resource_Manager/GCP_Cloud_Resource_Manager.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Resource_Manager/GCP_Cloud_Resource_Manager-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Resource_Manager.GCP_Cloud_Resource_Manager_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Resource-Manager_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Resource_Manager/GCP_Cloud_Resource_Manager_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Resource_Manager/GCP_Cloud_Resource_Manager_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Security_Command_Center.GCP_Cloud_Security_Command_Center:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Security-Command-Center.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Command_Center/GCP_Cloud_Security_Command_Center.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Command_Center/GCP_Cloud_Security_Command_Center-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Security_Command_Center.GCP_Cloud_Security_Command_Center_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Security-Command-Center_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Command_Center/GCP_Cloud_Security_Command_Center_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Command_Center/GCP_Cloud_Security_Command_Center_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Security_Scanner.GCP_Cloud_Security_Scanner:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Security-Scanner.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Scanner/GCP_Cloud_Security_Scanner.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Scanner/GCP_Cloud_Security_Scanner-sprite.puml
+
+Identity_And_Security.GCP_Cloud_Security_Scanner.GCP_Cloud_Security_Scanner_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Cloud-Security-Scanner_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Scanner/GCP_Cloud_Security_Scanner_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Cloud_Security_Scanner/GCP_Cloud_Security_Scanner_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Data_Loss_Prevention_API.GCP_Data_Loss_Prevention_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Data-Loss-Prevention-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Data_Loss_Prevention_API/GCP_Data_Loss_Prevention_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Data_Loss_Prevention_API/GCP_Data_Loss_Prevention_API-sprite.puml
+
+Identity_And_Security.GCP_Data_Loss_Prevention_API.GCP_Data_Loss_Prevention_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Data-Loss-Prevention-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Data_Loss_Prevention_API/GCP_Data_Loss_Prevention_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Data_Loss_Prevention_API/GCP_Data_Loss_Prevention_API_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Identity_Aware_Proxy.GCP_Identity_Aware_Proxy:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Identity-Aware-Proxy.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Identity_Aware_Proxy/GCP_Identity_Aware_Proxy.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Identity_Aware_Proxy/GCP_Identity_Aware_Proxy-sprite.puml
+
+Identity_And_Security.GCP_Identity_Aware_Proxy.GCP_Identity_Aware_Proxy_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Identity-Aware-Proxy_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Identity_Aware_Proxy/GCP_Identity_Aware_Proxy_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Identity_Aware_Proxy/GCP_Identity_Aware_Proxy_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Key_Management_Service.GCP_Key_Management_Service:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Key-Management-Service.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Key_Management_Service/GCP_Key_Management_Service.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Key_Management_Service/GCP_Key_Management_Service-sprite.puml
+
+Identity_And_Security.GCP_Key_Management_Service.GCP_Key_Management_Service_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Key-Management-Service_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Key_Management_Service/GCP_Key_Management_Service_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Key_Management_Service/GCP_Key_Management_Service_LARGE-sprite.puml
+
+Identity_And_Security.GCP_Security_Key_Enforcement.GCP_Security_Key_Enforcement:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Security-Key-Enforcement.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Security_Key_Enforcement/GCP_Security_Key_Enforcement.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Security_Key_Enforcement/GCP_Security_Key_Enforcement-sprite.puml
+
+Identity_And_Security.GCP_Security_Key_Enforcement.GCP_Security_Key_Enforcement_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Identity-And-Security/Identity-And-Security_GCP-Security-Key-Enforcement_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Security_Key_Enforcement/GCP_Security_Key_Enforcement_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Identity_And_Security/GCP_Security_Key_Enforcement/GCP_Security_Key_Enforcement_LARGE-sprite.puml
+
+Internet_of_Things.GCP_Cloud_IoT_Core.GCP_Cloud_IoT_Core:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Internet-of-Things/Internet-of-Things_GCP-Cloud-IoT-Core.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Internet_of_Things/GCP_Cloud_IoT_Core/GCP_Cloud_IoT_Core.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Internet_of_Things/GCP_Cloud_IoT_Core/GCP_Cloud_IoT_Core-sprite.puml
+
+Internet_of_Things.GCP_Cloud_IoT_Core.GCP_Cloud_IoT_Core_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Internet-of-Things/Internet-of-Things_GCP-Cloud-IoT-Core_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Internet_of_Things/GCP_Cloud_IoT_Core/GCP_Cloud_IoT_Core_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Internet_of_Things/GCP_Cloud_IoT_Core/GCP_Cloud_IoT_Core_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_APIs.GCP_Cloud_APIs:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-APIs.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs-sprite.puml
+
+Management_Tools.GCP_Cloud_APIs.GCP_Cloud_APIs_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-APIs_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_Billing_API.GCP_Cloud_Billing_API:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Billing-API.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API-sprite.puml
+
+Management_Tools.GCP_Cloud_Billing_API.GCP_Cloud_Billing_API_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Billing-API_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_Console.GCP_Cloud_Console:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Console.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console-sprite.puml
+
+Management_Tools.GCP_Cloud_Console.GCP_Cloud_Console_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Console_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_Deployment_Manager.GCP_Cloud_Deployment_Manager:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Deployment-Manager.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager-sprite.puml
+
+Management_Tools.GCP_Cloud_Deployment_Manager.GCP_Cloud_Deployment_Manager_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Deployment-Manager_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_Mobile_App.GCP_Cloud_Mobile_App:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Mobile-App.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App-sprite.puml
+
+Management_Tools.GCP_Cloud_Mobile_App.GCP_Cloud_Mobile_App_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Mobile-App_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App_LARGE-sprite.puml
+
+Management_Tools.GCP_Cloud_Shell.GCP_Cloud_Shell:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Shell.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell-sprite.puml
+
+Management_Tools.GCP_Cloud_Shell.GCP_Cloud_Shell_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Cloud-Shell_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell_LARGE-sprite.puml
+
+Management_Tools.GCP_Debugger.GCP_Debugger:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Debugger.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Debugger/GCP_Debugger.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Debugger/GCP_Debugger-sprite.puml
+
+Management_Tools.GCP_Debugger.GCP_Debugger_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Debugger_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Debugger/GCP_Debugger_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Debugger/GCP_Debugger_LARGE-sprite.puml
+
+Management_Tools.GCP_Error_Reporting.GCP_Error_Reporting:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Error-Reporting.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting-sprite.puml
+
+Management_Tools.GCP_Error_Reporting.GCP_Error_Reporting_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Error-Reporting_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting_LARGE-sprite.puml
+
+Management_Tools.GCP_Logging.GCP_Logging:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Logging.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Logging/GCP_Logging.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Logging/GCP_Logging-sprite.puml
+
+Management_Tools.GCP_Logging.GCP_Logging_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Logging_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Logging/GCP_Logging_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Logging/GCP_Logging_LARGE-sprite.puml
+
+Management_Tools.GCP_Monitoring.GCP_Monitoring:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Monitoring.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Monitoring/GCP_Monitoring.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Monitoring/GCP_Monitoring-sprite.puml
+
+Management_Tools.GCP_Monitoring.GCP_Monitoring_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Monitoring_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Monitoring/GCP_Monitoring_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Monitoring/GCP_Monitoring_LARGE-sprite.puml
+
+Management_Tools.GCP_Stackdriver.GCP_Stackdriver:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Stackdriver.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Stackdriver/GCP_Stackdriver.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Stackdriver/GCP_Stackdriver-sprite.puml
+
+Management_Tools.GCP_Stackdriver.GCP_Stackdriver_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Stackdriver_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Stackdriver/GCP_Stackdriver_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Stackdriver/GCP_Stackdriver_LARGE-sprite.puml
+
+Management_Tools.GCP_Trace.GCP_Trace:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Trace.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Trace/GCP_Trace.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Trace/GCP_Trace-sprite.puml
+
+Management_Tools.GCP_Trace.GCP_Trace_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Management-Tools/Management-Tools_GCP-Trace_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Trace/GCP_Trace_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Management_Tools/GCP_Trace/GCP_Trace_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Armor.GCP_Cloud_Armor:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Armor.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor-sprite.puml
+
+Networking.GCP_Cloud_Armor.GCP_Cloud_Armor_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Armor_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor_LARGE-sprite.puml
+
+Networking.GCP_Cloud_CDN.GCP_Cloud_CDN:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-CDN.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN-sprite.puml
+
+Networking.GCP_Cloud_CDN.GCP_Cloud_CDN_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-CDN_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN_LARGE-sprite.puml
+
+Networking.GCP_Cloud_DNS.GCP_Cloud_DNS:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-DNS.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS-sprite.puml
+
+Networking.GCP_Cloud_DNS.GCP_Cloud_DNS_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-DNS_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS_LARGE-sprite.puml
+
+Networking.GCP_Cloud_External_IP_Addresses.GCP_Cloud_External_IP_Addresses:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-External-IP-Addresses.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses-sprite.puml
+
+Networking.GCP_Cloud_External_IP_Addresses.GCP_Cloud_External_IP_Addresses_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-External-IP-Addresses_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Firewall_Rules.GCP_Cloud_Firewall_Rules:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Firewall-Rules.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules-sprite.puml
+
+Networking.GCP_Cloud_Firewall_Rules.GCP_Cloud_Firewall_Rules_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Firewall-Rules_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Load_Balancing.GCP_Cloud_Load_Balancing:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Load-Balancing.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing-sprite.puml
+
+Networking.GCP_Cloud_Load_Balancing.GCP_Cloud_Load_Balancing_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Load-Balancing_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Network.GCP_Cloud_Network:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Network.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Network/GCP_Cloud_Network.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Network/GCP_Cloud_Network-sprite.puml
+
+Networking.GCP_Cloud_Network.GCP_Cloud_Network_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Network_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Network/GCP_Cloud_Network_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Network/GCP_Cloud_Network_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Router.GCP_Cloud_Router:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Router.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Router/GCP_Cloud_Router.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Router/GCP_Cloud_Router-sprite.puml
+
+Networking.GCP_Cloud_Router.GCP_Cloud_Router_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Router_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Router/GCP_Cloud_Router_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Router/GCP_Cloud_Router_LARGE-sprite.puml
+
+Networking.GCP_Cloud_Routes.GCP_Cloud_Routes:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Routes.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes-sprite.puml
+
+Networking.GCP_Cloud_Routes.GCP_Cloud_Routes_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-Routes_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes_LARGE-sprite.puml
+
+Networking.GCP_Cloud_VPN.GCP_Cloud_VPN:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-VPN.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN-sprite.puml
+
+Networking.GCP_Cloud_VPN.GCP_Cloud_VPN_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Cloud-VPN_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN_LARGE-sprite.puml
+
+Networking.GCP_Dedicated_Interconnect.GCP_Dedicated_Interconnect:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Dedicated-Interconnect.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect-sprite.puml
+
+Networking.GCP_Dedicated_Interconnect.GCP_Dedicated_Interconnect_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Dedicated-Interconnect_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect_LARGE-sprite.puml
+
+Networking.GCP_Partner_Interconnect.GCP_Partner_Interconnect:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Partner-Interconnect.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect-sprite.puml
+
+Networking.GCP_Partner_Interconnect.GCP_Partner_Interconnect_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Partner-Interconnect_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect_LARGE-sprite.puml
+
+Networking.GCP_Premium_Network_Tier.GCP_Premium_Network_Tier:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Premium-Network-Tier.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier-sprite.puml
+
+Networking.GCP_Premium_Network_Tier.GCP_Premium_Network_Tier_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Premium-Network-Tier_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier_LARGE-sprite.puml
+
+Networking.GCP_Standard_Network_Tier.GCP_Standard_Network_Tier:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Standard-Network-Tier.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier-sprite.puml
+
+Networking.GCP_Standard_Network_Tier.GCP_Standard_Network_Tier_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Standard-Network-Tier_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier_LARGE-sprite.puml
+
+Networking.GCP_Virtual_Private_Cloud.GCP_Virtual_Private_Cloud:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Virtual-Private-Cloud.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud-sprite.puml
+
+Networking.GCP_Virtual_Private_Cloud.GCP_Virtual_Private_Cloud_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Networking/Networking_GCP-Virtual-Private-Cloud_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Bigtable.GCP_Cloud_Bigtable:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Bigtable.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Bigtable.GCP_Cloud_Bigtable_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Bigtable_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Datastore.GCP_Cloud_Datastore:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Datastore.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Datastore.GCP_Cloud_Datastore_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Datastore_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Filestore.GCP_Cloud_Filestore:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Filestore.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Filestore.GCP_Cloud_Filestore_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Filestore_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Memorystore.GCP_Cloud_Memorystore:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Memorystore.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Memorystore.GCP_Cloud_Memorystore_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Memorystore_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_SQL.GCP_Cloud_SQL:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-SQL.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_SQL.GCP_Cloud_SQL_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-SQL_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Spanner.GCP_Cloud_Spanner:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Spanner.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Spanner.GCP_Cloud_Spanner_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Spanner_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Storage.GCP_Cloud_Storage:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Storage.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage-sprite.puml
+
+Storage_And_Databases.GCP_Cloud_Storage.GCP_Cloud_Storage_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Cloud-Storage_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage_LARGE-sprite.puml
+
+Storage_And_Databases.GCP_Persistent_Disk.GCP_Persistent_Disk:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Persistent-Disk.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk-sprite.puml
+
+Storage_And_Databases.GCP_Persistent_Disk.GCP_Persistent_Disk_LARGE:
+	- /home/andrew/Projects/GCP-PlantUML/icons/Storage-And-Databases/Storage-And-Databases_GCP-Persistent-Disk_LARGE.png
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk_LARGE.puml
+	- /home/andrew/Projects/GCP-PlantUML/dist/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk_LARGE-sprite.puml
 

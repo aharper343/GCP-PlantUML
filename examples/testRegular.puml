@@ -1,0 +1,361 @@
+@startuml
+!define PUML https://raw.githubusercontent.com/aharper343/GCP-PlantUML/master/dist
+!includeurl PUML/common.puml
+
+!includeurl PUML/GCP_TensorFlow/GCP_TensorFlow.puml
+GCP_TENSORFLOW(GCP_TensorFlow,GCP_TensorFlow)
+
+
+!includeurl PUML/GCP_Platform/GCP_Platform.puml
+GCP_PLATFORM(GCP_Platform,GCP_Platform)
+
+!includeurl PUML/GCP_Istio/GCP_Istio.puml
+GCP_ISTIO(GCP_Istio,GCP_Istio)
+
+
+!includeurl PUML/GCP_Kubernetes/GCP_Kubernetes.puml
+GCP_KUBERNETES(GCP_Kubernetes,GCP_Kubernetes)
+
+
+
+
+!includeurl PUML/Networking/GCP_Partner_Interconnect/GCP_Partner_Interconnect.puml
+GCP_PARTNER_INTERCONNECT(GCP_Partner_Interconnect,GCP_Partner_Interconnect)
+
+!includeurl PUML/Networking/GCP_Virtual_Private_Cloud/GCP_Virtual_Private_Cloud.puml
+GCP_VIRTUAL_PRIVATE_CLOUD(GCP_Virtual_Private_Cloud,GCP_Virtual_Private_Cloud)
+
+
+!includeurl PUML/Networking/GCP_Cloud_Firewall_Rules/GCP_Cloud_Firewall_Rules.puml
+GCP_CLOUD_FIREWALL_RULES(GCP_Cloud_Firewall_Rules,GCP_Cloud_Firewall_Rules)
+
+!includeurl PUML/Networking/GCP_Cloud_CDN/GCP_Cloud_CDN.puml
+GCP_CLOUD_CDN(GCP_Cloud_CDN,GCP_Cloud_CDN)
+
+
+
+!includeurl PUML/Networking/GCP_Cloud_Load_Balancing/GCP_Cloud_Load_Balancing.puml
+GCP_CLOUD_LOAD_BALANCING(GCP_Cloud_Load_Balancing,GCP_Cloud_Load_Balancing)
+
+
+!includeurl PUML/Networking/GCP_Dedicated_Interconnect/GCP_Dedicated_Interconnect.puml
+GCP_DEDICATED_INTERCONNECT(GCP_Dedicated_Interconnect,GCP_Dedicated_Interconnect)
+
+!includeurl PUML/Networking/GCP_Cloud_DNS/GCP_Cloud_DNS.puml
+GCP_CLOUD_DNS(GCP_Cloud_DNS,GCP_Cloud_DNS)
+
+!includeurl PUML/Networking/GCP_Cloud_VPN/GCP_Cloud_VPN.puml
+GCP_CLOUD_VPN(GCP_Cloud_VPN,GCP_Cloud_VPN)
+
+
+!includeurl PUML/Networking/GCP_Cloud_Router/GCP_Cloud_Router.puml
+GCP_CLOUD_ROUTER(GCP_Cloud_Router,GCP_Cloud_Router)
+
+
+!includeurl PUML/Networking/GCP_Cloud_External_IP_Addresses/GCP_Cloud_External_IP_Addresses.puml
+GCP_CLOUD_EXTERNAL_IP_ADDRESSES(GCP_Cloud_External_IP_Addresses,GCP_Cloud_External_IP_Addresses)
+
+!includeurl PUML/Networking/GCP_Standard_Network_Tier/GCP_Standard_Network_Tier.puml
+GCP_STANDARD_NETWORK_TIER(GCP_Standard_Network_Tier,GCP_Standard_Network_Tier)
+
+!includeurl PUML/Networking/GCP_Cloud_Network/GCP_Cloud_Network.puml
+GCP_CLOUD_NETWORK(GCP_Cloud_Network,GCP_Cloud_Network)
+
+!includeurl PUML/Networking/GCP_Cloud_Routes/GCP_Cloud_Routes.puml
+GCP_CLOUD_ROUTES(GCP_Cloud_Routes,GCP_Cloud_Routes)
+
+!includeurl PUML/Networking/GCP_Premium_Network_Tier/GCP_Premium_Network_Tier.puml
+GCP_PREMIUM_NETWORK_TIER(GCP_Premium_Network_Tier,GCP_Premium_Network_Tier)
+
+
+
+!includeurl PUML/Networking/GCP_Cloud_Armor/GCP_Cloud_Armor.puml
+GCP_CLOUD_ARMOR(GCP_Cloud_Armor,GCP_Cloud_Armor)
+
+
+
+
+
+
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Filestore/GCP_Cloud_Filestore.puml
+GCP_CLOUD_FILESTORE(GCP_Cloud_Filestore,GCP_Cloud_Filestore)
+
+
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Datastore/GCP_Cloud_Datastore.puml
+GCP_CLOUD_DATASTORE(GCP_Cloud_Datastore,GCP_Cloud_Datastore)
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_SQL/GCP_Cloud_SQL.puml
+GCP_CLOUD_SQL(GCP_Cloud_SQL,GCP_Cloud_SQL)
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Storage/GCP_Cloud_Storage.puml
+GCP_CLOUD_STORAGE(GCP_Cloud_Storage,GCP_Cloud_Storage)
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Memorystore/GCP_Cloud_Memorystore.puml
+GCP_CLOUD_MEMORYSTORE(GCP_Cloud_Memorystore,GCP_Cloud_Memorystore)
+
+
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Bigtable/GCP_Cloud_Bigtable.puml
+GCP_CLOUD_BIGTABLE(GCP_Cloud_Bigtable,GCP_Cloud_Bigtable)
+
+!includeurl PUML/Storage_And_Databases/GCP_Persistent_Disk/GCP_Persistent_Disk.puml
+GCP_PERSISTENT_DISK(GCP_Persistent_Disk,GCP_Persistent_Disk)
+
+
+
+!includeurl PUML/Storage_And_Databases/GCP_Cloud_Spanner/GCP_Cloud_Spanner.puml
+GCP_CLOUD_SPANNER(GCP_Cloud_Spanner,GCP_Cloud_Spanner)
+
+
+
+
+!includeurl PUML/Data_Transfer/GCP_Transfer_Appliance/GCP_Transfer_Appliance.puml
+GCP_TRANSFER_APPLIANCE(GCP_Transfer_Appliance,GCP_Transfer_Appliance)
+
+
+
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_Developer_Portal/GCP_Developer_Portal.puml
+GCP_DEVELOPER_PORTAL(GCP_Developer_Portal,GCP_Developer_Portal)
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_API_Monetization/GCP_API_Monetization.puml
+GCP_API_MONETIZATION(GCP_API_Monetization,GCP_API_Monetization)
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_API_Analytics/GCP_API_Analytics.puml
+GCP_API_ANALYTICS(GCP_API_Analytics,GCP_API_Analytics)
+
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_Cloud_Endpoints/GCP_Cloud_Endpoints.puml
+GCP_CLOUD_ENDPOINTS(GCP_Cloud_Endpoints,GCP_Cloud_Endpoints)
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_Apigee_Sense/GCP_Apigee_Sense.puml
+GCP_APIGEE_SENSE(GCP_Apigee_Sense,GCP_Apigee_Sense)
+
+
+!includeurl PUML/API_Platform_And_Ecosystems/GCP_Apigee_API_Platform/GCP_Apigee_API_Platform.puml
+GCP_APIGEE_API_PLATFORM(GCP_Apigee_API_Platform,GCP_Apigee_API_Platform)
+
+
+
+!includeurl PUML/Internet_of_Things/GCP_Cloud_IoT_Core/GCP_Cloud_IoT_Core.puml
+GCP_CLOUD_IOT_CORE(GCP_Cloud_IoT_Core,GCP_Cloud_IoT_Core)
+
+
+
+
+!includeurl PUML/Cloud_AI/GCP_Advanced_Solutions_Lab/GCP_Advanced_Solutions_Lab.puml
+GCP_ADVANCED_SOLUTIONS_LAB(GCP_Advanced_Solutions_Lab,GCP_Advanced_Solutions_Lab)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Speech_API/GCP_Cloud_Speech_API.puml
+GCP_CLOUD_SPEECH_API(GCP_Cloud_Speech_API,GCP_Cloud_Speech_API)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Translation_API/GCP_Cloud_Translation_API.puml
+GCP_CLOUD_TRANSLATION_API(GCP_Cloud_Translation_API,GCP_Cloud_Translation_API)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Video_Intelligence_API/GCP_Cloud_Video_Intelligence_API.puml
+GCP_CLOUD_VIDEO_INTELLIGENCE_API(GCP_Cloud_Video_Intelligence_API,GCP_Cloud_Video_Intelligence_API)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_AutoML/GCP_Cloud_AutoML.puml
+GCP_CLOUD_AUTOML(GCP_Cloud_AutoML,GCP_Cloud_AutoML)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Vision_API/GCP_Cloud_Vision_API.puml
+GCP_CLOUD_VISION_API(GCP_Cloud_Vision_API,GCP_Cloud_Vision_API)
+
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Natural_Language_API/GCP_Cloud_Natural_Language_API.puml
+GCP_CLOUD_NATURAL_LANGUAGE_API(GCP_Cloud_Natural_Language_API,GCP_Cloud_Natural_Language_API)
+
+
+
+
+!includeurl PUML/Cloud_AI/GCP_Dialogflow_Enterprise_Edition/GCP_Dialogflow_Enterprise_Edition.puml
+GCP_DIALOGFLOW_ENTERPRISE_EDITION(GCP_Dialogflow_Enterprise_Edition,GCP_Dialogflow_Enterprise_Edition)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Machine_Learning/GCP_Cloud_Machine_Learning.puml
+GCP_CLOUD_MACHINE_LEARNING(GCP_Cloud_Machine_Learning,GCP_Cloud_Machine_Learning)
+
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_TPU/GCP_Cloud_TPU.puml
+GCP_CLOUD_TPU(GCP_Cloud_TPU,GCP_Cloud_TPU)
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Text_to_Speech/GCP_Cloud_Text_to_Speech.puml
+GCP_CLOUD_TEXT_TO_SPEECH(GCP_Cloud_Text_to_Speech,GCP_Cloud_Text_to_Speech)
+
+
+
+
+
+!includeurl PUML/Cloud_AI/GCP_Cloud_Jobs_API/GCP_Cloud_Jobs_API.puml
+GCP_CLOUD_JOBS_API(GCP_Cloud_Jobs_API,GCP_Cloud_Jobs_API)
+
+!includeurl PUML/Management_Tools/GCP_Stackdriver/GCP_Stackdriver.puml
+GCP_STACKDRIVER(GCP_Stackdriver,GCP_Stackdriver)
+
+
+
+!includeurl PUML/Management_Tools/GCP_Logging/GCP_Logging.puml
+GCP_LOGGING(GCP_Logging,GCP_Logging)
+
+!includeurl PUML/Management_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager.puml
+GCP_CLOUD_DEPLOYMENT_MANAGER(GCP_Cloud_Deployment_Manager,GCP_Cloud_Deployment_Manager)
+
+!includeurl PUML/Management_Tools/GCP_Cloud_Mobile_App/GCP_Cloud_Mobile_App.puml
+GCP_CLOUD_MOBILE_APP(GCP_Cloud_Mobile_App,GCP_Cloud_Mobile_App)
+
+!includeurl PUML/Management_Tools/GCP_Error_Reporting/GCP_Error_Reporting.puml
+GCP_ERROR_REPORTING(GCP_Error_Reporting,GCP_Error_Reporting)
+
+
+!includeurl PUML/Management_Tools/GCP_Monitoring/GCP_Monitoring.puml
+GCP_MONITORING(GCP_Monitoring,GCP_Monitoring)
+
+
+!includeurl PUML/Management_Tools/GCP_Cloud_Shell/GCP_Cloud_Shell.puml
+GCP_CLOUD_SHELL(GCP_Cloud_Shell,GCP_Cloud_Shell)
+
+!includeurl PUML/Management_Tools/GCP_Trace/GCP_Trace.puml
+GCP_TRACE(GCP_Trace,GCP_Trace)
+
+
+!includeurl PUML/Management_Tools/GCP_Cloud_Console/GCP_Cloud_Console.puml
+GCP_CLOUD_CONSOLE(GCP_Cloud_Console,GCP_Cloud_Console)
+
+!includeurl PUML/Management_Tools/GCP_Cloud_APIs/GCP_Cloud_APIs.puml
+GCP_CLOUD_APIS(GCP_Cloud_APIs,GCP_Cloud_APIs)
+
+
+
+!includeurl PUML/Management_Tools/GCP_Debugger/GCP_Debugger.puml
+GCP_DEBUGGER(GCP_Debugger,GCP_Debugger)
+
+
+
+
+!includeurl PUML/Management_Tools/GCP_Cloud_Billing_API/GCP_Cloud_Billing_API.puml
+GCP_CLOUD_BILLING_API(GCP_Cloud_Billing_API,GCP_Cloud_Billing_API)
+
+
+
+
+!includeurl PUML/Developer_Tools/GCP_Cloud_SDK/GCP_Cloud_SDK.puml
+GCP_CLOUD_SDK(GCP_Cloud_SDK,GCP_Cloud_SDK)
+
+
+!includeurl PUML/Developer_Tools/GCP_Cloud_Deployment_Manager/GCP_Cloud_Deployment_Manager.puml
+GCP_CLOUD_DEPLOYMENT_MANAGER(GCP_Cloud_Deployment_Manager,GCP_Cloud_Deployment_Manager)
+
+!includeurl PUML/Developer_Tools/GCP_Container_Builder/GCP_Container_Builder.puml
+GCP_CONTAINER_BUILDER(GCP_Container_Builder,GCP_Container_Builder)
+
+!includeurl PUML/Developer_Tools/GCP_Cloud_Source_Repositories/GCP_Cloud_Source_Repositories.puml
+GCP_CLOUD_SOURCE_REPOSITORIES(GCP_Cloud_Source_Repositories,GCP_Cloud_Source_Repositories)
+
+
+
+!includeurl PUML/Developer_Tools/GCP_Container_Registry/GCP_Container_Registry.puml
+GCP_CONTAINER_REGISTRY(GCP_Container_Registry,GCP_Container_Registry)
+
+
+!includeurl PUML/Developer_Tools/GCP_Cloud_Test_Lab/GCP_Cloud_Test_Lab.puml
+GCP_CLOUD_TEST_LAB(GCP_Cloud_Test_Lab,GCP_Cloud_Test_Lab)
+
+
+!includeurl PUML/Identity_And_Security/GCP_Cloud_Security_Scanner/GCP_Cloud_Security_Scanner.puml
+GCP_CLOUD_SECURITY_SCANNER(GCP_Cloud_Security_Scanner,GCP_Cloud_Security_Scanner)
+
+
+!includeurl PUML/Identity_And_Security/GCP_Cloud_IAM/GCP_Cloud_IAM.puml
+GCP_CLOUD_IAM(GCP_Cloud_IAM,GCP_Cloud_IAM)
+
+!includeurl PUML/Identity_And_Security/GCP_Security_Key_Enforcement/GCP_Security_Key_Enforcement.puml
+GCP_SECURITY_KEY_ENFORCEMENT(GCP_Security_Key_Enforcement,GCP_Security_Key_Enforcement)
+
+
+!includeurl PUML/Identity_And_Security/GCP_Key_Management_Service/GCP_Key_Management_Service.puml
+GCP_KEY_MANAGEMENT_SERVICE(GCP_Key_Management_Service,GCP_Key_Management_Service)
+
+
+
+!includeurl PUML/Identity_And_Security/GCP_Identity_Aware_Proxy/GCP_Identity_Aware_Proxy.puml
+GCP_IDENTITY_AWARE_PROXY(GCP_Identity_Aware_Proxy,GCP_Identity_Aware_Proxy)
+
+
+!includeurl PUML/Identity_And_Security/GCP_Data_Loss_Prevention_API/GCP_Data_Loss_Prevention_API.puml
+GCP_DATA_LOSS_PREVENTION_API(GCP_Data_Loss_Prevention_API,GCP_Data_Loss_Prevention_API)
+
+!includeurl PUML/Identity_And_Security/GCP_Cloud_Security_Command_Center/GCP_Cloud_Security_Command_Center.puml
+GCP_CLOUD_SECURITY_COMMAND_CENTER(GCP_Cloud_Security_Command_Center,GCP_Cloud_Security_Command_Center)
+
+
+
+!includeurl PUML/Identity_And_Security/GCP_BeyondCorp/GCP_BeyondCorp.puml
+GCP_BEYONDCORP(GCP_BeyondCorp,GCP_BeyondCorp)
+
+
+!includeurl PUML/Identity_And_Security/GCP_Cloud_Resource_Manager/GCP_Cloud_Resource_Manager.puml
+GCP_CLOUD_RESOURCE_MANAGER(GCP_Cloud_Resource_Manager,GCP_Cloud_Resource_Manager)
+
+
+!includeurl PUML/Compute/GCP_Cloud_Functions/GCP_Cloud_Functions.puml
+GCP_CLOUD_FUNCTIONS(GCP_Cloud_Functions,GCP_Cloud_Functions)
+
+!includeurl PUML/Compute/GCP_Container_Engine/GCP_Container_Engine.puml
+GCP_CONTAINER_ENGINE(GCP_Container_Engine,GCP_Container_Engine)
+
+!includeurl PUML/Compute/GCP_App_Engine/GCP_App_Engine.puml
+GCP_APP_ENGINE(GCP_App_Engine,GCP_App_Engine)
+
+!includeurl PUML/Compute/GCP_Compute_Engine/GCP_Compute_Engine.puml
+GCP_COMPUTE_ENGINE(GCP_Compute_Engine,GCP_Compute_Engine)
+
+
+!includeurl PUML/Compute/GCP_GPU/GCP_GPU.puml
+GCP_GPU(GCP_GPU,GCP_GPU)
+
+
+
+!includeurl PUML/Compute/GCP_Container_Optimized_OS/GCP_Container_Optimized_OS.puml
+GCP_CONTAINER_OPTIMIZED_OS(GCP_Container_Optimized_OS,GCP_Container_Optimized_OS)
+
+
+
+
+!includeurl PUML/Big_Data/GCP_Data_Studio/GCP_Data_Studio.puml
+GCP_DATA_STUDIO(GCP_Data_Studio,GCP_Data_Studio)
+
+!includeurl PUML/Big_Data/GCP_Cloud_PubSub/GCP_Cloud_PubSub.puml
+GCP_CLOUD_PUBSUB(GCP_Cloud_PubSub,GCP_Cloud_PubSub)
+
+
+!includeurl PUML/Big_Data/GCP_Cloud_Dataprep/GCP_Cloud_Dataprep.puml
+GCP_CLOUD_DATAPREP(GCP_Cloud_Dataprep,GCP_Cloud_Dataprep)
+
+
+!includeurl PUML/Big_Data/GCP_BigQuery/GCP_BigQuery.puml
+GCP_BIGQUERY(GCP_BigQuery,GCP_BigQuery)
+
+
+!includeurl PUML/Big_Data/GCP_Genomics/GCP_Genomics.puml
+GCP_GENOMICS(GCP_Genomics,GCP_Genomics)
+
+
+!includeurl PUML/Big_Data/GCP_Cloud_Composer/GCP_Cloud_Composer.puml
+GCP_CLOUD_COMPOSER(GCP_Cloud_Composer,GCP_Cloud_Composer)
+
+
+
+!includeurl PUML/Big_Data/GCP_Cloud_Datalab/GCP_Cloud_Datalab.puml
+GCP_CLOUD_DATALAB(GCP_Cloud_Datalab,GCP_Cloud_Datalab)
+
+!includeurl PUML/Big_Data/GCP_Cloud_Dataproc/GCP_Cloud_Dataproc.puml
+GCP_CLOUD_DATAPROC(GCP_Cloud_Dataproc,GCP_Cloud_Dataproc)
+
+
+!includeurl PUML/Big_Data/GCP_Cloud_Dataflow/GCP_Cloud_Dataflow.puml
+GCP_CLOUD_DATAFLOW(GCP_Cloud_Dataflow,GCP_Cloud_Dataflow)
+
+
+
+@enduml
